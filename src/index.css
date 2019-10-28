@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.primary-link:hover {
+  color: #3f51b5;
+}
+
+.post-cancel-btn {
+  text-decoration: none;
+  color: #3f51b5;
+  margin-left: 15px;
+}
+
+.post-cancel-btn:hover{
+  text-decoration: underline;
+}
